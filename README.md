@@ -6,11 +6,11 @@
 
 Skills: PYTHON / C#/ SQL / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on the project "Blitz!". 
 - 🌱 I’m currently learning PHP 
 - 📫 How to reach me: starqween03@gmail.com 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xoxoPoxox&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
