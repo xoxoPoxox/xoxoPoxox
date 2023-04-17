@@ -13,5 +13,5 @@ Skills: PYTHON / C#/ SQL / HTML / CSS
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xoxoPoxox)](https://github.com/anuraghazra/github-readme-stats)
+
 
