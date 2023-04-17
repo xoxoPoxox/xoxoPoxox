@@ -1,4 +1,4 @@
-### ℍ𝕚, 𝕀'𝕞 𝕃𝕚𝕟𝕒
+### Hi, I'm Lina👋
 
 #### I am Information systems and technologies student
 ![I am Information systems and technologies student](https://user-images.githubusercontent.com/104797558/232354549-b2f986df-5e0e-4b13-98ae-c1f27f132730.png)
